@@ -1,13 +1,20 @@
 <h1 align="left">👋 Hello there! I'm CHUBU</h1>
-<h3 align="left">💻 I´m a another passionate about programming</h3>
+<h3 align="left">I´m a another passionate about programming</h3>
 <p align="left">
-	<a href="https://github.com/fchubu/fchubu">
-		<img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="page views" />
+   <a href="https://github.com/fchubu/fchubu">
+     <img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="page views" />
   </a>
   <a href="https://mailhide.io/e/VB6ZeW2P">
-	   <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white" alt="page views" />
-	 </a>
+      <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white" alt="page views" />
+  </a>
 </p>
+
+<h2> I'm Currently</h3>	
+
+- 🏤 Working on a tech company
+- 📚 Mentoring and helping programmers
+- 🖥 Building up my tech blog ﹣ will be ready soon...
+- 💡 Looking for new challenges/opportunities
 
 <h2 align="left">🔨 Favorite Tech</h2> 
 
