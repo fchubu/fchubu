@@ -41,6 +41,12 @@
     </td>
     <td align="center" width="96">
       <a href="#">
+        <img src="./img/redux-logo.png" width="48" height="48" alt="redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#">
         <img src="./img/sass-logo.png" width="48" height="48" alt="sass" />
       </a>
       <br>Sass
