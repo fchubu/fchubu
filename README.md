@@ -16,7 +16,7 @@
 - 🖥 Building up my tech blog ﹣ will be ready soon...
 - 💡 Looking for new challenges/opportunities
 
-<h2 align="left">🔨 Favorite Tech</h2> 
+<h2 align="left">Favorite Tech</h2> 
 
 > Tools, languages, and other things that I like to work with.
 
