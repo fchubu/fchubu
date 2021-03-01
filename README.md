@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello there! I'm CHUBU</h1>
-<h3 align="left">I´m a another passionate about programming</h3>
+<h3 align="left">💻 I´m a another passionate about programming</h3>
 <p align="left">
 	<a href="https://github.com/fchubu/fchubu">
 		<img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="page views" />
@@ -9,7 +9,7 @@
 	 </a>
 </p>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left">🔨 Favorite Tech</h2> 
 
 > Tools, languages, and other things that I like to work with.
 
@@ -44,6 +44,12 @@
         <img src="./img/sass-logo.png" width="48" height="48" alt="sass" />
       </a>
       <br>Sass
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/next-logo.png" width="48" height="48" alt="next-js" />
+      </a>
+      <br>Next
     </td>
     <td align="center" width="96">
       <a href="#">
